@@ -1,0 +1,7 @@
+#Wed Aug 14 00:59:48 CST 2019
+base.0=/Users/chunchen/Work/git-projects/ApiDemos_imported/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/chunchen/Work/git-projects/ApiDemos_imported/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
